@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461956246 source:f:\practico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1461897094 f:\practico2\funciones.h
+
+1461902840 source:f:\practico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
