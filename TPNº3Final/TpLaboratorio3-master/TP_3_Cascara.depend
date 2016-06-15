@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1464147508 source:c:\users\walter\desktop\tp3\tp_3_programacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1464142153 c:\users\walter\desktop\tp3\tp_3_programacion\utn.h
+
+1464147477 c:\users\walter\desktop\tp3\tp_3_programacion\funciones.h
+	"utn.h"
+
+1464569890 source:c:\users\walter\desktop\tp3\tp_3_programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"movies.h"
+	"utn.h"
+
+1464575775 c:\users\walter\desktop\tp3\tp_3_programacion\movies.h
+
+1464142142 source:c:\users\walter\desktop\tp3\tp_3_programacion\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1464194742 source:c:\users\walter\desktop\tp3\tp_3_programacion\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movies.h"
+	"utn.h"
+
+1464596062 source:c:\users\walter\desktop\elqueva\tp3\tp_3_programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"movies.h"
+	"utn.h"
+
+1464596351 c:\users\walter\desktop\elqueva\tp3\tp_3_programacion\movies.h
+
+1464142153 c:\users\walter\desktop\elqueva\tp3\tp_3_programacion\utn.h
+
+1464142142 source:c:\users\walter\desktop\elqueva\tp3\tp_3_programacion\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1464596541 source:c:\users\walter\desktop\elqueva\tp3\tp_3_programacion\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"movies.h"
+

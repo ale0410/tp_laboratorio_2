@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1465749897 source:c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+
+1464582440 c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\movies.h
+
+1464582440 c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\utn.h
+
+1465527516 source:c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\code.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1465527516 source:c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"code.h"
+	"lib.h"
+
+1465527516 c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\code.h
+
+1465676988 c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\lib.h
+	"code.h"
+
+1465749897 c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\peliculas.h
+
+1465749897 source:c:\users\alejandro\documents\laboratorio1\tpnº3\tplaboratorio3-master\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"peliculas.h"
+
