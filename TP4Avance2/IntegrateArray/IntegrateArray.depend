@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1466045478 source:f:\arraylist5\integratearray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"movie.h"
+
+1466028634 f:\arraylist5\integratearray\arraylist.h
+
+1466045480 f:\arraylist5\integratearray\movie.h
+
+1466045478 source:f:\arraylist5\integratearray\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+
+1466028828 source:f:\arraylist5\integratearray\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
